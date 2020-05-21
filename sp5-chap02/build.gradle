@@ -1,0 +1,18 @@
+// Gradle java 플러그인 적용
+apply plugin: 'java'
+
+// 소스와 컴파일 결과를 1.8 버전으로 맞춤
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+// 소스 코드 인코딩으로 UTF-8 사용
+compileJava.options.encoding = "UTF-8"
+
+// 의존 모듈을 메이븐 중앙 레파지토리에서 다운로드
+repositories {
+    mavenCentral()
+}
+
+// spring-context 모듈에 대한 의존 설정
+dependencies {
+    compile 'org.springframework:spring-context:5.0.2.RELEASE'
+}

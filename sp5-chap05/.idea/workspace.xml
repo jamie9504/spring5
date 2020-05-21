@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b2a2689-449a-4521-9840-8130455b4ebe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/MainForAssembler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/MainForSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/MainForSpring2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/MainForSpring3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/assembler/Assembler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/config/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/config/AppCtx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/config/AppCtx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/config/AppCtxImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/dto/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/exception/DuplicateMemberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/exception/MemberNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/exception/WrongPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/repository/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/service/ChangePasswordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/service/MemberRegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/view/MemberInfoPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/view/MemberListPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/view/MemberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/view/MemberSummaryPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap04/src/main/java/spring/view/VersionPrinter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cCFHEfVVfCPIxAZniykr0SOZoP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b2a2689-449a-4521-9840-8130455b4ebe" name="Default Changelist" comment="" />
+      <created>1590024578796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590024578796</updated>
+      <workItem from="1590024580667" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
