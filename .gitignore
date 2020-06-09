@@ -5,6 +5,12 @@ build/
 !**/src/main/**
 !**/src/test/**
 
+### MAVEN ###
+*/target/
+
+### MAC ###
+**/.DS_Store
+
 ### STS ###
 .apt_generated
 .classpath
@@ -15,7 +21,7 @@ build/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-sp5-chap02/.idea
+**/.idea
 *.iws
 *.iml
 *.ipr
