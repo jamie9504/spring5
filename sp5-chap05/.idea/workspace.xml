@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b2a2689-449a-4521-9840-8130455b4ebe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/config/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/dbquery/DbQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/dto/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/exception/DuplicateMemberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/exception/MemberNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/exception/WrongPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/main/MainForMemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/repository/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/service/ChangePasswordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/service/MemberRegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/view/MemberInfoPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/view/MemberListPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap08/src/main/java/spring/view/MemberPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sp5-chap07/src/main/java/aspect/CacheAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sp5-chap07/src/main/java/aspect/CacheAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sp5-chap07/src/main/java/config/AppCtxWithCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sp5-chap07/src/main/java/config/AppCtxWithCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sp5-chap07/target/classes/aspect/CacheAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sp5-chap07/target/classes/aspect/CacheAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sp5-chap07/target/classes/config/AppCtxWithCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sp5-chap07/target/classes/config/AppCtxWithCache.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +109,7 @@
       <updated>1590024578796</updated>
       <workItem from="1590024580667" duration="442000" />
       <workItem from="1590149995998" duration="5472000" />
+      <workItem from="1591611036818" duration="1089000" />
     </task>
     <task id="LOCAL-00001" summary="[Chapter05] Component 스캔">
       <created>1590155768603</created>

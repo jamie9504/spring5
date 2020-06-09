@@ -13,17 +13,20 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 public class AppCtxWithCache {
 
 	@Bean
-	public CacheAspect cacheAspect() {
-		return new CacheAspect();
-	}
-	
-	@Bean
-	public ExeTimeAspect exeTimeAspect() {
-		return new ExeTimeAspect();
+	public Calculator calculator() {
+		System.err.println("calculator");
+		return new RecCalculator();
 	}
 
 	@Bean
-	public Calculator calculator() {
-		return new RecCalculator();
+	public CacheAspect cacheAspect() {
+		System.err.println("cacheAspect");
+		return new CacheAspect();
+	}
+
+	@Bean
+	public ExeTimeAspect exeTimeAspect() {
+		System.err.println("exeTimeAspect");
+		return new ExeTimeAspect();
 	}
 }
